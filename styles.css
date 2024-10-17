@@ -1,19 +1,26 @@
-body {
-    display: inline-block;
-    background-color: white;
-}
 
 table {
+    border-collapse: collapse;
     height: 100vh;
     width: 100vw;
 }
 
+/*
 tr:nth-of-type(odd) {
     background-color: black;
 }
+    messed with 1st row during building causing it to be outlined
+*/
 
 .black {
-    height: 0px;
+    height: 100px;
     width: 100px;
+    background-color: black;
+}
+
+.white {
+    height: 100px;
+    width: 100px;
+    background-color: white;
 }
 
