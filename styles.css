@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+}
+
+table {
+    height: 100vh;
+    width: 100vw;
+}
+
+tr:nth-of-type(odd) {
+    background-color: black;
+}
+
+.row-one {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
