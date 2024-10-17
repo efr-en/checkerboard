@@ -1,4 +1,5 @@
 body {
+    display: inline-block;
     background-color: white;
 }
 
@@ -11,8 +12,8 @@ tr:nth-of-type(odd) {
     background-color: black;
 }
 
-.row-one {
-    height: 100px;
+.black {
+    height: 0px;
     width: 100px;
-    background-color: white;
 }
+
