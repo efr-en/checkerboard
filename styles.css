@@ -9,8 +9,10 @@ table {
 tr:nth-of-type(odd) {
     background-color: black;
 }
-    messed with 1st row during building causing it to be outlined
+
+removed for messing with 1st and 2nd row during early dev
 */
+
 
 .black {
     height: 100px;
